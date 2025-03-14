@@ -1,5 +1,5 @@
 # PetGlam BOT
-Link: [https://github.com/charliesbot/design-docs/edit/main/spanish/EXAMPLE.md](#)
+Link: [https://github.com/IsabelMagaCamarena/design-docs/edit/patch-1/spanish/EXAMPLE.md](#)
 
 Author(s): Isabel Magaña
 
