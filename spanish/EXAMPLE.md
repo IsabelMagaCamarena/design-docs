@@ -39,7 +39,4 @@ Consultar la base de datos y devolver información sobre la raza, tipo de piel y
 Enviar recomendaciones de cuidados al usuario.
 
 ## Consideraciones
-- 
-
-## Métricas
-- 
+- Encontrar un buscador inteligente para la compartiva de las fotos de las mascotas.
